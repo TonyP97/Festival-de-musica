@@ -107,7 +107,7 @@ dist
 package-lock.json
 
 #
-src/
+src/img
 gulpfile.js
 package.json
 ._.DS_Store
